@@ -163,7 +163,7 @@ MonoBehaviour:
   clickShakeDuration: 0.1
   explodeShakeIntensity: 0.3
   explodeShakeDuration: 0.5
-  lengthPerClick: 0.45
+  lengthPerClick: 0.55
   rotateSpeed: 300
   timeToAutoFall: 0.8
   shrinkSpeed: 15
@@ -1117,7 +1117,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: b6be91a0894ff76448f0848f34931e95, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
